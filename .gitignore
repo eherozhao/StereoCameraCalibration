@@ -1,0 +1,10 @@
+#ignore all logs
+**/logs
+
+#zip文件
+*.zip
+#Kdevelop文件
+*.kdev4
+
+#gradle files
+*/build

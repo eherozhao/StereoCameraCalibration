@@ -1,0 +1,7 @@
+/home/hao/Documents/test/go/CMakeFiles/install.dir
+/home/hao/Documents/test/go/CMakeFiles/list_install_components.dir
+/home/hao/Documents/test/go/CMakeFiles/rebuild_cache.dir
+/home/hao/Documents/test/go/CMakeFiles/go.dir
+/home/hao/Documents/test/go/CMakeFiles/install/local.dir
+/home/hao/Documents/test/go/CMakeFiles/install/strip.dir
+/home/hao/Documents/test/go/CMakeFiles/edit_cache.dir
