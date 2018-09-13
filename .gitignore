@@ -63,13 +63,12 @@
 
 *.app
 
+*.txt
+*.cmake
+*.kdev4
 
-CMakeCache.txt
-CMakeFiles
-CMakeScripts
-Testing
+build/
+.kdev4/
+.vscode/
+CMakeFiles/
 Makefile
-cmake_install.cmake
-install_manifest.txt
-compile_commands.json
-CTestTestfile.cmake
