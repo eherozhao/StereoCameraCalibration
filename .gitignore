@@ -1,10 +1,32 @@
-#ignore all logs
-**/logs
+# Prerequisites
+*.d
 
-#zip文件
-*.zip
-#Kdevelop文件
-*.kdev4
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
 
-#gradle files
-*/build
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
